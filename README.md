@@ -45,7 +45,7 @@ Access official Pantone color libraries inside CorelDRAW for accurate spot color
 ### 🖼 Preview
 
 Pantone swatch palette loaded inside CorelDRAW interface  
-![Screenshot](PLACE_YOUR_IMAGE_LINK_HERE)  
+![Screenshot](https://product.corel.com/help/CorelDRAW/540223850/Main/EN/Documentation/images/CorelDRAW-loc-color-out-of-gamut-swatch.jpg)  
 *Professional-grade color accuracy for every design*
 
 ---
